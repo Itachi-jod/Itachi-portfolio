@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="text-center text-white max-w-4xl mx-auto px-4">
         <div className="mb-6">
           <h1 className="text-5xl md:text-7xl font-bold mb-4 animate-fade-in">
-            Hi, I'm <span className="text-yellow-300">Alex Smith</span>
+            Hi, I'm <span className="text-yellow-300">Itachi Uchiha</span>
           </h1>
           <div className="text-xl md:text-2xl text-indigo-200 h-8">
             <AnimatedText 
