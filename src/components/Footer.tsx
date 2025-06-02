@@ -37,7 +37,7 @@ const Footer = () => {
           <p className="text-indigo-200 flex items-center justify-center space-x-2">
             <span>Made with</span>
             <Heart size={16} className="text-red-400 animate-pulse" />
-            <span>by Alex Smith © 2024. All rights reserved.</span>
+            <span>by Itachi Uchiha © 2024. All rights reserved.</span>
           </p>
         </div>
       </div>
